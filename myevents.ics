@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZNAME:WIB
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230214T165538Z
+UID:1676393715352-99290@ical.marudot.com
+DTSTART;TZID=Asia/Jakarta:20230510T080000
+DTEND;TZID=Asia/Jakarta:20230510T090000
+SUMMARY:Akad dan Walimah
+URL:https://t.ly/Re_k
+DESCRIPTION:Bismillahirrahmanirrahim\nKami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di\n\nAkad Nikah : Ds. Kedungpucang\, Kec. Bener\, Kab. Purworejo\, 10 Mei 2023 - 08:00.\nWalimatul 'Ursy : Ds. Kedungpucang\, Kec. Bener\, Kab. Purworejo\, 10 Mei 2023 - 09:00 .\n\nSelengkapnya : https://t.ly/Re_k\n\nRegards\,\nBibid dan Juna
+LOCATION:Krajan\, Kedung Pucang\, Kec. Bener\, Kabupaten Purworejo\, Jawa Tengah\, Indonesia
+END:VEVENT
+END:VCALENDAR
