@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading h2,
 #fh5co-event .fh5co-heading h2 {
-  color: #113468;
+  color: #599eff;
 }
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: normal;
-  color: #113468;
+  color: #599eff;
   font-family: "Satisfy", Arial, serif;
 }
 @media screen and (max-width: 480px) {
@@ -521,7 +521,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: normal;
-  color: #0298d4;
+  color: #599eff;
   font-family: "Satisfy", Arial, serif;
 }
 @media screen and (max-width: 480px) {
@@ -1327,7 +1327,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #113468;
+  color: #599eff;
   font-family: "Dancing Script", Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -2059,7 +2059,7 @@ form label {
 }
 
 .option-btn {
-  background-color: #395f95;
+  background-color: #599eff;
   height: 65px;
   width: 65px;
   border-radius: 50%;
@@ -2115,7 +2115,7 @@ form label {
 
 .right-sidebar {
   list-style: none;
-  background-color: #325587;
+  background-color: #599eff;
   height: 50px;
   padding: 0 25px 0 35px;
   margin: 0;
@@ -2139,7 +2139,7 @@ form label {
 
 .left-sidebar {
   list-style: none;
-  background-color: #325587;
+  background-color: #599eff;
   height: 50px;
   padding: 0 25px 0 35px;
   margin: 0;
